@@ -99,5 +99,5 @@ Hotel-Operations-Analysis/
 
 ##  Author
 
-Vipul Raj
+ALIYA MUSKAAN
 <img width="1536" height="1024" alt="Hotel operation and booking" src="https://github.com/user-attachments/assets/0fd2bb9f-4e59-4b03-b005-ecaf367d2eb2" />
